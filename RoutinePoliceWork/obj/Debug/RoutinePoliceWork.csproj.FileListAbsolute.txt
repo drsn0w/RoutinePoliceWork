@@ -1,0 +1,8 @@
+C:\Users\drsn0w\documents\visual studio 2015\Projects\RoutinePoliceWork\RoutinePoliceWork\bin\Debug\RoutinePoliceWork.dll
+C:\Users\drsn0w\documents\visual studio 2015\Projects\RoutinePoliceWork\RoutinePoliceWork\bin\Debug\RoutinePoliceWork.pdb
+C:\Users\drsn0w\documents\visual studio 2015\Projects\RoutinePoliceWork\RoutinePoliceWork\bin\Debug\LSPD First Response.dll
+C:\Users\drsn0w\documents\visual studio 2015\Projects\RoutinePoliceWork\RoutinePoliceWork\bin\Debug\RagePluginHookSDK.dll
+C:\Users\drsn0w\documents\visual studio 2015\Projects\RoutinePoliceWork\RoutinePoliceWork\bin\Debug\RagePluginHookSDK.xml
+C:\Users\drsn0w\documents\visual studio 2015\Projects\RoutinePoliceWork\RoutinePoliceWork\obj\Debug\RoutinePoliceWork.csprojResolveAssemblyReference.cache
+C:\Users\drsn0w\documents\visual studio 2015\Projects\RoutinePoliceWork\RoutinePoliceWork\obj\Debug\RoutinePoliceWork.dll
+C:\Users\drsn0w\documents\visual studio 2015\Projects\RoutinePoliceWork\RoutinePoliceWork\obj\Debug\RoutinePoliceWork.pdb
