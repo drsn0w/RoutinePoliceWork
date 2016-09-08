@@ -167,7 +167,7 @@ namespace RoutinePoliceWork.Callouts
             if(ShouldSayEndingAudio)
             {
                 Functions.PlayScannerAudio("CODE_4");
-                Game.DisplayNotification("Situation code 4");
+                Game.DisplayNotification("Situation is code 4!");
             }
             
 
